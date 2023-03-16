@@ -1,0 +1,35 @@
+COMANDOS:
+
+node: Inicia o intérprete de Node.js.
+
+node <archivo.js>: Executa o arquivo JavaScript especificado com Node.js.
+
+npm: Gerenciador de pacotes de Node.js. Você pode usá-lo para instalar, desinstalar e atualizar pacotes.
+
+npm init: Crie um novo arquivo package.json no diretório atual.
+
+npm install <paquete>: Instala um pacote de Node.js e suas dependências.
+
+npm uninstall <paquete>: Desinstala um pacote de Node.js e suas dependências.
+
+npm update: Atualize todos os pacotes de Node.js para suas versões mais recentes.
+
+npm start: Execute o script "start" especificado no arquivo package.json.
+
+npm test: Execute o script "test" especificado no arquivo package.json.
+
+npm run <script>: Execute o script especificado no arquivo package.json.
+
+ctrl + c: Controle a execução do Node.js.
+
+console.log(): Imprima uma mensagem no console.
+
+process.argv: Um array que contém os argumentos da linha de comando passada para o script Node.js.
+
+require(): Importe um módulo Node.js em seu arquivo JavaScript.
+
+module.exports: Exportar um objeto, função ou outro valor de um arquivo JavaScript para que outros arquivos possam ser importados com require().
+
+
+Link para guia de importação e exportação de módulos com JS 
+https://www.alura.com.br/artigos/guia-importacao-exportacao-modulos-javascript
